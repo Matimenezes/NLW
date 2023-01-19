@@ -4,7 +4,7 @@
 
 > trilha explorer 
 
-Projeto construido do evento Next level week da Rocketseat.
+Projeto construido no evento Next level week da Rocketseat.
 
 [🔗Clique aqui para acessar](https://matimenezes.github.io/NLW/)
 
